@@ -1,6 +1,6 @@
 [
     {
-      "id": "1",
+      "id": 1,
       "sdid": null,
       "title": "Purchase Order Filing in Helpdesk",
       "detail": null,
@@ -40,7 +40,7 @@
       "dateTimeForInterval": null
     },    
     {
-      "id": "2",
+      "id": 2,
       "sdid": null,
       "title": "diviation study",
       "detail": null,
@@ -80,7 +80,7 @@
       "dateTimeForInterval": null
     },
     {
-      "id": "3",
+      "id": 3,
       "sdid": null,
       "title": "MORNING BRIFING , SME DOUBT CLARIFIED TO VIKAS SIR",
       "detail": null,
